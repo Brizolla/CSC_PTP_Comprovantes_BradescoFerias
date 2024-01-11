@@ -1,0 +1,1 @@
+Compress-Archive -LiteralPath . -DestinationPath "CSC_PTP_Comprovantes_BradescoFerias.zip" -Force

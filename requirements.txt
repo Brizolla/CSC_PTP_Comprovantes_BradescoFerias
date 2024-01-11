@@ -1,0 +1,15 @@
+botcity-framework-web>=0.8.0,<1.0
+botcity-maestro-sdk>=0.3.3,<1.0
+O365
+PyPDF2
+botcity-excel-plugin
+botcity-ms365-credentials-plugin>=0.2.0
+botcity-ms365-onedrive-plugin>=0.2.0
+# Uncomment to use botcity-utils
+# botcity-utils>=0.1.2
+
+# Uncomment to use botcity-crawler-plugin
+# botcity-crawler-plugin
+
+# Uncomment to use Pandas
+# pandas
